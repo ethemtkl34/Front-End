@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 01 Mar 2021 15:21:04 at https://livedemo00.template-help.com/wt_51679/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://livedemo00.template-help.com/wt_51679/ -O1 "C:\My Web Sites\code of hami" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:21:25	Error: 	"Not Found" (404) at link https://livedemo00.template-help.com/wt_51679/"images/bg-bunner-2.jpg" (from https://livedemo00.template-help.com/wt_51679/)
+15:21:25	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://livedemo00.template-help.com/wt_51679/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 23 seconds : 67 links scanned, 63 files written (9018111 bytes overall) [6163050 bytes received at 267958 bytes/sec], 4040810 bytes transferred using HTTP compression in 22 files, ratio 27%, 11.1 requests per connection
+(2 errors, 0 warnings, 0 messages)
